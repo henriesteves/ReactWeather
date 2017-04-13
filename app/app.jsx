@@ -22,7 +22,7 @@ ReactDOM.render(
     <Route path="/" component={Main}>
       <Route path="about" component={About} />
       <Route path="examples" component={Examples} />
-      <IndexRoute component={Weather}/>
+      <IndexRoute component={Weather} />
     </Route>
   </Router>,
   document.getElementById('app')

@@ -33,7 +33,7 @@ var About = (props) => {
         </li>
       </ul>
     </div>
-  )
+  );
 };
 
 // var About = (props) => <h3>About Component</h3>;
